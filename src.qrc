@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/ABackground.png</file>
+        <file>images/AGun_shoot.gif</file>
+        <file>images/background_gameplay.png</file>
+        <file>images/game_background_3.png</file>
+        <file>images/game_map1.png</file>
+        <file>images/genshin_icon.png</file>
+        <file>images/genshin_icon2.png</file>
+        <file>images/girl_fail.gif</file>
+        <file>images/ic_cursor.png</file>
+        <file>images/pl_idle.gif</file>
+        <file>images/pl_run.gif</file>
+        <file>images/star-shuriken.png</file>
+        <file>images/Zomble_walk.gif</file>
+        <file>font/fusion-pixel-proportional.ttf</file>
+        <file>style.qss</file>
+        <file>images/plain-circle-removebg-preview.png</file>
+        <file>images/fire.gif</file>
+        <file>images/fire2.gif</file>
+        <file>images/enemyFire.jpg</file>
+    </qresource>
+</RCC>
